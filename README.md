@@ -30,8 +30,9 @@ It also displays the **Tuwaiq Academy logo** in 64x64 resolution at the top righ
 
 ## 🖥️ Screenshot
 
-![Preview](preview.png)  
-*Example view after system boots.*
+![image](https://github.com/user-attachments/assets/8a1eff4d-bc0a-4b1a-83e8-e22dee3f2b22)
+
+
 
 ---
 
